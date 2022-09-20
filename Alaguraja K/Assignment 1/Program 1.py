@@ -8,6 +8,9 @@ if num > 1:
         print(num, "is a prime number")
 else:
     print(num, "is not a prime number")
+    
+    
+
   
   
   
