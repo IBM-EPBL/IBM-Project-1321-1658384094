@@ -2,7 +2,7 @@ n=int(input("Enter the number of terms : "))
 t1=0
 t2=1
 if(n<=0):
-    print("Invalid number of terms specified")
+    print("Invalid number of terms specified, retry!")
 else:
     if n==1:
         print(t1)
