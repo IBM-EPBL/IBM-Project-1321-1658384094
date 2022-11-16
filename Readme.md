@@ -46,10 +46,10 @@ Mepco Schlenk Engineering College, Sivakasi
 
 ## Assignment  
 
- - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)
- - [Team member : Ashok Sandeep N B S](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
- - [Team member : Alaguraja K](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
- - [Team member : Santhosh V](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
+ - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
+ - [Team member : Ashok Sandeep N B S](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ashok%20Sandeep%20N%20B%20S)
+ - [Team member : Alaguraja K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Alaguraja%20K)
+ - [Team member : Santhosh V](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Santhosh%20V)
 
 
 ## Project Design & Planning
@@ -84,4 +84,4 @@ If you have any feedback, please reach out to us at kganeshkumar011_ec@mepcoeng.
 
 
 
-![Thank You](https://www.dreamstime.com/stock-images-thank-you-note-image18663294)
+![Thank You]([https://www.dreamstime.com/stock-images-thank-you-note-image18663294](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fthank-you-card-colorful-watercolor-floral-with-gold-frame_65186-2978.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fthank-you-business&tbnid=Q4NjuhlIXBNkYM&vet=12ahUKEwjJ7ZvM7bH7AhXbzqACHYWnDDoQMygFegUIARDxAQ..i&docid=9A09PTHPNLHNTM&w=2000&h=2000&q=thank%20you%20images&ved=2ahUKEwjJ7ZvM7bH7AhXbzqACHYWnDDoQMygFegUIARDxAQ))
