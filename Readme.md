@@ -5,7 +5,7 @@
 <p align="center" >Web Application for managing expenses</p>
 
 
-**Category :**Cloud App Development
+# Category: Cloud App Development
 
 
 **Batch Name :** B8-2A4E
