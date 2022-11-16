@@ -2,10 +2,11 @@
 <h1 align="center" style="margin-top: 0px;">Personal Expense Tracker Application</h1>
 <p align="center" >Web Application for managing expenses</p>
 
-**Category :**Cloud App Development
-**Batch Name :** B8-2A4E
-
 ---
+
+**Category :** Cloud App Development
+
+**Batch Name :** B8-2A4E
 
 **Team ID :** PNT2022TMID18300
 
