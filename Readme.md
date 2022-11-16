@@ -26,6 +26,7 @@
 **Team member :** Santhosh V
 
 ---
+
 **Industry Mentor(s) Name :** Khusboo
 
 **Faculty Mentor(s) Name  :** Kirubakaran G
@@ -40,10 +41,6 @@
 
 ---
 
-
-
-
-
 ## Assignment  
  - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
  - [Team member : Ashok Sandeep N B S](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ashok%20Sandeep%20N%20B%20S)
@@ -57,13 +54,16 @@
 - [Project Design Phase 2](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202)
 - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
 
+
+## Project Development Phase
+- [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Development%20Phase)
+
+
 ## Tech Stack
-
 **Frontend:** Html, Css, JavaScript
-
 **Backend:** Python, Flask, Docker CLI
-
 **Database:** IBM DB2
+
 
 ## Authors
 - [@Ganesh Kumar K](https://github.com/kganeshkumar011)
@@ -74,5 +74,4 @@
 
 ## Feedback
 If you have any feedback, please reach out to us at kganeshkumar011_ec@mepcoeng.ac.in
-
 ![Thank You](https://github.com/kganeshkumar011/Mine/blob/main/Thank%20You.jpg)
