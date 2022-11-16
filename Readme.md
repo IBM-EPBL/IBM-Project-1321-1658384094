@@ -62,7 +62,7 @@ Mepco Schlenk Engineering College, Sivakasi
 
 **Frontend:** Html+Css+JavaScript
 
-**Backend:** Python, Flask , Docker
+**Backend:** Python, Flask, Docker
 
 **Database:** IBM DB2
 
