@@ -76,5 +76,5 @@
 
 
 ## Feedback
-If you have any feedback, please reach out to us at kganeshkumar011_ec@mepcoeng.ac.in
+If you have any feedback, please feel free to contact our team on kganeshkumar011_ec@mepcoeng.ac.in
 ![Thank You](https://github.com/kganeshkumar011/Mine/blob/main/Thank%20You.jpg)
