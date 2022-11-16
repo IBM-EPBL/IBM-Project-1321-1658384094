@@ -4,13 +4,13 @@
 
 ---
 
-**Category :** Cloud App Development
+**Category    :** Cloud App Development
 
-**Team ID :** PNT2022TMID18300
+**Team ID     :** PNT2022TMID18300
 
-**Batch Name :** B8-2A4E
+**Batch Name  :** B8-2A4E
 
-**Team Size :** 4
+**Team Size   :** 4
 
 **Team Leader :** Ganesh Kumar K
 
@@ -23,18 +23,15 @@
 ---
 **Industry Mentor(s) Name :** Khusboo
 
-**Faculty Mentor(s) Name :** Kirubakaran G
+**Faculty Mentor(s) Name  :** Kirubakaran G
 
 ---
 
-**Degree	:**	
-Bachelor of Engineering
+**Degree	 :**	Bachelor of Engineering
 
-**Branch	:**	
-Electronics and Communication Engineering
+**Branch	 :**	Electronics and Communication Engineering
 
-**College	:**	
-Mepco Schlenk Engineering College, Sivakasi
+**College	:**	Mepco Schlenk Engineering College, Sivakasi
 
 ---
 
