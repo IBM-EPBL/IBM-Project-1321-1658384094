@@ -84,4 +84,4 @@ If you have any feedback, please reach out to us at kganeshkumar011_ec@mepcoeng.
 
 
 
-![Thank You](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fthank-you.html&psig=AOvVaw1mqXlbAhrOERfdsnKV0qUq&ust=1668656808928000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICH743lsfsCFQAAAAAdAAAAABAE)
+![Thank You](https://www.dreamstime.com/stock-images-thank-you-note-image18663294)
