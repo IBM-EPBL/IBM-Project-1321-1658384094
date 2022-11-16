@@ -45,7 +45,6 @@
 
 
 ## Assignment  
-
  - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
  - [Team member : Ashok Sandeep N B S](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ashok%20Sandeep%20N%20B%20S)
  - [Team member : Alaguraja K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Alaguraja%20K)
@@ -60,17 +59,13 @@
 
 ## Tech Stack
 
-**Frontend:** Html+Css+JavaScript
+**Frontend:** Html, Css, JavaScript
 
-**Backend:** Python, Flask, Docker
+**Backend:** Python, Flask, Docker CLI
 
 **Database:** IBM DB2
 
-
-
-
 ## Authors
-
 - [@Ganesh Kumar K](https://github.com/kganeshkumar011)
 - [@Ashok Sandeep N B S](https://github.com/ashoksandeepnbs1987)
 - [@Alaguraja K](https://github.com/ibm-nalaiyathiran)
@@ -78,10 +73,6 @@
 
 
 ## Feedback
-
 If you have any feedback, please reach out to us at kganeshkumar011_ec@mepcoeng.ac.in
-
-
-
 
 ![Thank You](https://github.com/kganeshkumar011/Mine/blob/main/Thank%20You.jpg)
