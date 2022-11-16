@@ -4,12 +4,12 @@
 
 <p align="left" >Web Application for managing expenses</p>
 
----
 
-**Category: Cloud App Development
 **Batch Name :** B8-2A4E
 
 ---
+
+**Category :**Cloud App Development
 
 **Team ID :** PNT2022TMID18300
 
