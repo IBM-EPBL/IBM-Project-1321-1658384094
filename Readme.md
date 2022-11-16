@@ -68,7 +68,7 @@
 **Database:** IBM DB2
 
 
-## Authors
+## Our Team Profiles
 - [@Ganesh Kumar K](https://github.com/kganeshkumar011)
 - [@Ashok Sandeep N B S](https://github.com/ashoksandeepnbs1987)
 - [@Alaguraja K](https://github.com/ibm-nalaiyathiran)
