@@ -60,8 +60,11 @@
 
 
 ## Tech Stack
+
 **Frontend:** Html, Css, JavaScript
+
 **Backend:** Python, Flask, Docker CLI
+
 **Database:** IBM DB2
 
 
