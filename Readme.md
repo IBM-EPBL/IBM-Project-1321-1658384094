@@ -1,7 +1,5 @@
-
+<p align="center" style="margin-bottom: 0px !important;"></p>
 <h3 align="center" style="margin-top: 0px;">IBM-Project-1321-1658384094</h3>
-
----
 
 <p align="center" style="margin-bottom: 0px !important;"></p>
 <h1 align="center" style="margin-top: 0px;">Personal Expense Tracker Application</h1>
