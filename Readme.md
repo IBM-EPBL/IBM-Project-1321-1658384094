@@ -6,7 +6,6 @@
 <p align="center" style="margin-bottom: 0px !important;"></p>
 <h1 align="center" style="margin-top: 0px;">Personal Expense Tracker Application</h1>
 <p align="center" >Web Application for managing Expenses</p>
-<p align="center" >IBM-Project-1321-1658384094</p>
 
 ---
 
