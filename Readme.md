@@ -1,7 +1,5 @@
 # Personal Expense Tracker Application
 
-Category: Cloud App Development
-
 Project Description:
 
 In simple words, personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently. A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.
@@ -11,6 +9,8 @@ Personal finance applications will ask users to add their expenses and based on 
 ---
 
 **Project ID :** IBM-Project-1321-1658384094
+
+**Category   :**Cloud App Development
 
 **Batch      :** B8-2A4E
 
