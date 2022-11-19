@@ -79,5 +79,6 @@ Personal finance applications will ask users to add their expenses and based on 
 
 
 ## Feedback
-If you have any feedback, please feel free to contact our team on kganeshkumar011_ec@mepcoeng.ac.in
+If you have any feedback, please feel free to contact us on kganeshkumar011_ec@mepcoeng.ac.in
+
 ![Thank You](https://github.com/kganeshkumar011/Mine/blob/main/Thank%20You.jpg)
