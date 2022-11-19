@@ -1,6 +1,6 @@
 # Personal Expense Tracker Application
 
-Category : Cloud App Development
+Category: Cloud App Development
 
 Project Description:
 
@@ -14,9 +14,7 @@ Technical Architecture:
 
 ---
 
-**ID    :** IBM-Project-1321-1658384094
-
-**Category    :** Cloud App Development
+**Project ID    :** IBM-Project-1321-1658384094
 
 **Batch Name  :** B8-2A4E
 
