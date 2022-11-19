@@ -14,7 +14,7 @@ Personal finance applications will ask users to add their expenses and based on 
 
 **Batch No   :** B8-2A4E
 
----
+#
 
 **Team ID     :** PNT2022TMID18300
 
@@ -28,13 +28,13 @@ Personal finance applications will ask users to add their expenses and based on 
 
 **Team member :** Santhosh V
 
----
+#
 
 **Industry Mentor(s) Name :** Khusboo
 
 **Faculty Mentor(s) Name  :** Kirubakaran G
 
----
+#
 
 **Degree	 :**	Bachelor of Engineering
 
@@ -42,7 +42,7 @@ Personal finance applications will ask users to add their expenses and based on 
 
 **College	:**	Mepco Schlenk Engineering College, Sivakasi
 
----
+#
 
 ## Assignment  
  - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
