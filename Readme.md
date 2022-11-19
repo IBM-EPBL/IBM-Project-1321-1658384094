@@ -14,11 +14,11 @@ Personal finance applications will ask users to add their expenses and based on 
 
 **Batch No   :** B8-2A4E
 
+**Team Size   :** 4
+
 #
 
 **Team ID     :** PNT2022TMID18300
-
-**Team Size   :** 4
 
 **Team Leader :** Ganesh Kumar K
 
