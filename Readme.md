@@ -10,17 +10,15 @@ Personal finance applications will ask users to add their expenses and based on 
 
 ---
 
-**Project ID    :** IBM-Project-1321-1658384094
+**Project ID :** IBM-Project-1321-1658384094
 
-**Batch Name  :** B8-2A4E
+**Batch      :** B8-2A4E
 
 ---
 
 **Team ID     :** PNT2022TMID18300
 
 **Team Size   :** 4
-
----
 
 **Team Leader :** Ganesh Kumar K
 
