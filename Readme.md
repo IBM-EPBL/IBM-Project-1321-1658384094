@@ -7,7 +7,6 @@
 **Batch No   :** B8-2A4E
 
 **Team Size   :** 4
-
 #
 
 **Team ID     :** PNT2022TMID18300
@@ -19,13 +18,11 @@
 **Team member :** Alaguraja K
 
 **Team member :** Santhosh V
-
 #
 
 **Industry Mentor(s) Name :** Kusboo
 
 **Faculty Mentor(s) Name  :** Kirubakaran G
-
 #
 
 **Degree	 :**	Bachelor of Engineering
