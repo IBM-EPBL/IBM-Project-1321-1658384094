@@ -1,1 +1,20 @@
-123
+<title>
+   {% block title %}       
+   {% endblock %}   
+
+</title>
+
+<div>
+    <a href ="{{ url_for( 'Login' )}}">Login</a>
+</div>
+<div>
+    <a href= "{{ url_for ('Register')}}">Register </a>
+</div>
+
+
+<body>
+
+    {% block content%}
+    
+    {% endblock%}
+</body>
