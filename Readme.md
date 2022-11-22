@@ -34,27 +34,23 @@
 
 **College	:**	Mepco Schlenk Engineering College, Sivakasi
 
-#
-
-## Assignment  
- - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
- - [Team member : Ashok Sandeep N B S](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ashok%20Sandeep%20N%20B%20S)
- - [Team member : Alaguraja K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Alaguraja%20K)
- - [Team member : Santhosh V](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Santhosh%20V)
-
-
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 - [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
 - [Project Design Phase 2](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202)
 - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
 
-
 ## Project Development Phase
 - [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Development%20Phase/Sprint%201)
 - [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Development%20Phase/Sprint%202)
 - [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Development%20Phase/Sprint%203)
 - [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Project%20Development%20Phase/Sprint%204)
+
+## Assignment  
+ - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
+ - [Team member : Ashok Sandeep N B S](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ashok%20Sandeep%20N%20B%20S)
+ - [Team member : Alaguraja K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Alaguraja%20K)
+ - [Team member : Santhosh V](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Santhosh%20V)
 
 ## Tech Stack
 
