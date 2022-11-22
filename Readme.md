@@ -22,7 +22,7 @@
 
 #
 
-**Industry Mentor(s) Name :** Khusboo
+**Industry Mentor(s) Name :** Kusboo
 
 **Faculty Mentor(s) Name  :** Kirubakaran G
 
