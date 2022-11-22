@@ -1,40 +1,28 @@
 # Personal Expense Tracker Application
 
 **Project ID :** IBM-Project-1321-1658384094
-
 **Category   :** Cloud App Development
-
 **Batch No   :** B8-2A4E
-
 **Team Size   :** 4
 
 #
 
 **Team ID     :** PNT2022TMID18300
-
 **Team Leader :** Ganesh Kumar K
-
 **Team member :** Ashok Sandeep N B S
-
 **Team member :** Alaguraja K
-
 **Team member :** Santhosh V
 
 #
 
 **Industry Mentor(s) Name :** Kusboo
-
 **Faculty Mentor(s) Name  :** Kirubakaran G
 
 #
 
 **Degree	 :**	Bachelor of Engineering
-
 **Branch	 :**	Electronics and Communication Engineering
-
 **College	:**	Mepco Schlenk Engineering College, Sivakasi
-
-#
 
 ## Assignment  
  - [Team Leader : Ganesh Kumar K](https://github.com/IBM-EPBL/IBM-Project-1321-1658384094/tree/main/Assessments/Ganesh%20Kumar%20K)
@@ -57,9 +45,7 @@
 ## Tech Stack
 
 **Frontend:** Html, Css, JavaScript
-
 **Backend:** Python, Flask, Docker CLI
-
 **Database:** IBM DB2
 
 ## Project Description
