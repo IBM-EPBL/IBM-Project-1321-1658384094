@@ -14,17 +14,17 @@ app = Flask(__name__)
 app.secret_key = 'a'
 
 app.config['database'] = 'bludb'
-app.config['hostname'] = 'b0aebb68-94fa-46ec-a1fc-1c999edb6187.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud'
-app.config['port'] = '31249'
+app.config['hostname'] = '19af6446-6171-4641-8aba-9dcff8e1b6ff.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud'
+app.config['port'] = '30699'
 app.config['protocol'] = 'tcpip'
-app.config['uid'] = 'xgl34124'
-app.config['pwd'] = 'lkP1B5zjTXYPKZUK'
+app.config['uid'] = 'wdc34377'
+app.config['pwd'] = 'GSX4f44l31U8e7sb'
 app.config['security'] = 'SSL'
 try:
     mysql = DB2(app)
 
-    conn_str='database=bludb;hostname=b0aebb68-94fa-46ec-a1fc-1c999edb6187.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud;port=31249;protocol=tcpip;\
-            uid=xgl34124;pwd=lkP1B5zjTXYPKZUK;security=SSL'
+    conn_str='database=bludb;hostname=19af6446-6171-4641-8aba-9dcff8e1b6ff.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;port=30699;protocol=tcpip;\
+            uid=wdc34377;pwd=GSX4f44l31U8e7sb;security=SSL'
     ibm_db_conn = ibm_db.connect(conn_str,'','')
         
     print("Database connected without any error !!")
